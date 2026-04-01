@@ -6,3 +6,25 @@
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+body {
+  background-color: #1c1c1c;
+}
+
+.card {
+  background-color: #1c1c1c;
+}
+
+.hero-section {
+  background-image: url('../img/jumbotron.jpg');
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 400px;
+  width: 100vw;
+  height: 25vh;
+}
+
+.nav-link:hover {
+  color: rgb(55, 158, 255);
+}

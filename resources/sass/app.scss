@@ -50,3 +50,15 @@ body {
 .links-section {
   background-color: rgb(55, 158, 255);
 }
+
+footer li {
+  font-weight: 100;
+}
+
+.footer-top {
+  background-image: url("../img/dc-logo-bg.png"),
+    url("../img/footer-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-blend-mode: color-burn;
+}
